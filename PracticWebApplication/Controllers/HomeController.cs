@@ -15,7 +15,7 @@ namespace PracticWebApplication.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "User 1 description page.";
+            ViewBag.Message = "User 1 description page. Edited";
 
             return View();
         }
